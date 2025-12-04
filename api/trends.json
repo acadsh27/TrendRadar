@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T22:46:05.767565+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2025-12-04T23:26:33.043866+08:00",
+  "total_titles_processed": 1817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 72,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时55分 ~ 22时46分]"
+          "appearance_count": 13,
+          "time_info": "[11时55分 ~ 23时26分]"
         },
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -87,8 +87,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时37分 ~ 22时46分]"
+          "appearance_count": 12,
+          "time_info": "[12时37分 ~ 23时26分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -169,9 +169,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
+        },
+        {
+          "title": "俄罗斯总统普京：美国总统特朗普的顾问们认为，实施关税政策最终将有利于美国经济。",
+          "url": "https://flash.jin10.com/detail/20251204230725794800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美国总统特朗普支持击沉运毒船只的决定。",
@@ -322,6 +333,17 @@
           "time_info": "[12时37分 ~ 14时41分]"
         },
         {
+          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
+          "url": "https://news.ifeng.com/c/8oohPdXia4u",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时26分]"
+        },
+        {
           "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
           "url": "https://v.ifeng.com/c/8ooVjzBecEz",
           "source": "凤凰网",
@@ -346,15 +368,16 @@
           "time_info": "[03时23分 ~ 05时24分]"
         },
         {
-          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
-          "url": "https://news.ifeng.com/c/8oohPdXia4u",
-          "source": "凤凰网",
+          "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
+          "url": "https://www.cls.cn/detail/2219893",
+          "source": "财联社热门",
           "ranks": [
-            7
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时26分]"
         },
         {
           "title": "美国总统特朗普：（谈威特科夫、库什纳与普京的会面）相当不错的会面。我们会看到将发生什么。这次会面的结果我不能透露。",
@@ -426,17 +449,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
-          "url": "https://www.cls.cn/detail/2219893",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
         },
         {
           "title": "特朗普盟友：约翰逊正在失去对众议院共和党人的控制",
@@ -546,6 +558,17 @@
           "time_info": "[22时45分 ~ 22时46分]"
         },
         {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了(图)",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "特朗普提议大幅削减燃油经济性要求",
           "url": "https://flash.jin10.com/detail/20251204033431474800",
           "source": "金十数据",
@@ -566,6 +589,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "俄罗斯总统普京：特朗普有自己的议程，有自己的目标，而我们则专注于我们自己的。",
+          "url": "https://flash.jin10.com/detail/20251204230543003800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "俄罗斯总统普京：（谈及美国总统特朗普可能的反应）尽管有外部压力，我和莫迪都没有合作对付某人。",
+          "url": "https://flash.jin10.com/detail/20251204230529976800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
@@ -711,6 +756,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "富达国际：特朗普政策下的降息与弱美元 正为2026年新兴市场“大行情”铺路",
+          "url": "https://flash.jin10.com/detail/20251204225744626800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "福特汽车(F.N)CEO：今日将与美国总统特朗普和交通部长达菲会面。",
           "url": "https://flash.jin10.com/detail/20251203235231445800",
           "source": "金十数据",
@@ -750,7 +806,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -872,7 +928,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         }
@@ -965,8 +1021,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时26分]"
         },
         {
           "title": "周三（12月3日）纽约尾盘，美国10年期基准国债收益率跌2.32个基点，报4.0633%。 两年期美债收益率跌2.24个基点，报3.4855%。",
@@ -1010,8 +1066,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 22时46分]"
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 23时26分]"
         }
       ]
     },
@@ -1055,7 +1111,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         }
