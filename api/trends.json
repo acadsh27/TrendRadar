@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T14:35:43.936651+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2025-12-05T15:23:40.233766+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
@@ -294,7 +294,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
@@ -302,7 +302,7 @@
     },
     {
       "keyword_group": "高市早苗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "高市早苗被控涉嫌违规收受企业政治捐款",
@@ -335,8 +335,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 15时23分]"
         },
         {
           "title": "外交部回应高市早苗最新言论：只是用立场没有变化来敷衍搪塞，中方对此不能接受",
@@ -348,8 +348,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 14时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 15时22分]"
         },
         {
           "title": "德国又给高市早苗上了一课",
@@ -394,6 +394,18 @@
           "time_info": "[00时31分 ~ 07时21分]"
         },
         {
+          "title": "推动加息，日本央行如何“巧取”高市早苗",
+          "url": "https://wallstreetcn.com/articles/3760719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 15时23分]"
+        },
+        {
           "title": "高市早苗被控涉嫌违规收受企业政治捐款",
           "url": "https://www.cls.cn/detail/2219856",
           "source": "财联社热门",
@@ -404,18 +416,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时24分 ~ 07时21分]"
-        },
-        {
-          "title": "推动加息，日本央行如何“巧取”高市早苗",
-          "url": "https://wallstreetcn.com/articles/3760719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 14时35分]"
         },
         {
           "title": "赖岳谦：高市早苗越来越被孤立",
@@ -439,6 +439,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 03时20分]"
+        },
+        {
+          "title": "为何必须要求高市早苗撤回挑衅性言论",
+          "url": "https://www.toutiao.com/trending/7579616551427620927/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
         }
       ]
     },
