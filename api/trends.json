@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T11:21:40.296979+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2025-12-05T12:32:14.044814+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国总统特朗普：赞赏国务卿卢比奥在撮合卢旺达与刚果和平进程中发挥的作用。",
@@ -255,13 +255,24 @@
           "time_info": "[06时19分 ~ 07时21分]"
         },
         {
+          "title": "市场消息：美国总统特朗普将于当地时间周五下午3点（北京时间次日凌晨4点）签署行政令。",
+          "url": "https://flash.jin10.com/detail/20251205110849030800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "美初请数据创三年新低，现货白银大幅回调！美官员称特朗普考虑明年退出美墨加协定，日本央行12月加息几成定局......美油卖出信号持续保持强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251205103316073800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -309,11 +320,12 @@
           "url": "https://news.ifeng.com/c/8opO2mnjtd2",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 11时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 12时32分]"
         },
         {
           "title": "外交部回应高市早苗最新言论：只是用立场没有变化来敷衍搪塞，中方对此不能接受",
@@ -325,8 +337,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 11时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 12时32分]"
         },
         {
           "title": "德国又给高市早苗上了一课",
@@ -352,8 +364,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 11时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 12时32分]"
         },
         {
           "title": "中方：绝不接受高市早苗敷衍搪塞",
@@ -383,6 +395,18 @@
           "time_info": "[01时24分 ~ 07时21分]"
         },
         {
+          "title": "推动加息，日本央行如何“巧取”高市早苗",
+          "url": "https://wallstreetcn.com/articles/3760719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 12时32分]"
+        },
+        {
           "title": "赖岳谦：高市早苗越来越被孤立",
           "url": "https://www.toutiao.com/trending/7579249932863881252/",
           "source": "今日头条",
@@ -404,17 +428,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 03时20分]"
-        },
-        {
-          "title": "推动加息，日本央行如何“巧取”高市早苗",
-          "url": "https://wallstreetcn.com/articles/3760719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 11时21分]"
         }
       ]
     },
@@ -488,7 +501,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
