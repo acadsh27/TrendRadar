@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T17:24:44.839109+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2025-12-05T18:24:54.913290+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国总统特朗普：赞赏国务卿卢比奥在撮合卢旺达与刚果和平进程中发挥的作用。",
@@ -255,6 +255,17 @@
           "time_info": "[06时19分 ~ 07时21分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-05）",
+          "url": "https://flash.jin10.com/detail/20251205180349829800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "市场消息：美国总统特朗普将于当地时间周五下午3点（北京时间次日凌晨4点）签署行政令。",
           "url": "https://flash.jin10.com/detail/20251205110849030800",
           "source": "金十数据",
@@ -283,7 +294,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -435,11 +446,12 @@
           "ranks": [
             21,
             14,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 17时24分]"
+          "appearance_count": 6,
+          "time_info": "[15时22分 ~ 18时24分]"
         },
         {
           "title": "赖岳谦：高市早苗越来越被孤立",
