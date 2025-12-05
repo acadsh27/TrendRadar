@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T12:32:14.044814+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2025-12-05T13:22:39.402078+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
@@ -261,7 +261,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -324,8 +324,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 13时22分]"
         },
         {
           "title": "外交部回应高市早苗最新言论：只是用立场没有变化来敷衍搪塞，中方对此不能接受",
@@ -337,8 +337,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 12时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时22分]"
         },
         {
           "title": "德国又给高市早苗上了一课",
@@ -364,8 +364,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 12时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时22分]"
         },
         {
           "title": "中方：绝不接受高市早苗敷衍搪塞",
@@ -403,8 +403,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 13时22分]"
         },
         {
           "title": "赖岳谦：高市早苗越来越被孤立",
