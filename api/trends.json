@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T13:22:39.402078+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2025-12-05T14:35:43.936651+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国总统特朗普：赞赏国务卿卢比奥在撮合卢旺达与刚果和平进程中发挥的作用。",
@@ -286,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "据国际文传电讯社：克里姆林宫表示，目前尚无俄罗斯总统普京与美国总统特朗普通话的计划。",
+          "url": "https://flash.jin10.com/detail/20251205133653740800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         }
       ]
     },
@@ -324,8 +335,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时20分 ~ 14时35分]"
         },
         {
           "title": "外交部回应高市早苗最新言论：只是用立场没有变化来敷衍搪塞，中方对此不能接受",
@@ -337,8 +348,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 13时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 14时35分]"
         },
         {
           "title": "德国又给高市早苗上了一课",
@@ -403,8 +414,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时20分 ~ 14时35分]"
         },
         {
           "title": "赖岳谦：高市早苗越来越被孤立",
