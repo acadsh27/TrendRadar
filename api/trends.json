@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T05:29:54.268055+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-01-10T06:30:36.007978+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时30分]"
         },
         {
           "title": "马斯克：人类可以实现半永生",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时30分]"
         },
         {
           "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时30分]"
         },
         {
           "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
