@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T22:27:57.055542+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2026-01-10T23:28:04.969537+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,17 @@
           "time_info": "[00时38分 ~ 19时23分]"
         },
         {
+          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
+          "url": "https://www.cls.cn/detail/2253847",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时28分]"
+        },
+        {
           "title": "马斯克：白领劳动力将最先消失",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%99%BD%E9%A2%86%E5%8A%B3%E5%8A%A8%E5%8A%9B%E5%B0%86%E6%9C%80%E5%85%88%E6%B6%88%E5%A4%B1",
           "source": "百度热搜",
@@ -52,17 +63,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时01分 ~ 12时44分]"
-        },
-        {
-          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
-          "url": "https://www.cls.cn/detail/2253847",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时34分 ~ 22时27分]"
         },
         {
           "title": "马斯克抛出对AI时代三大预言靠谱吗",
