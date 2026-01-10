@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T15:27:18.905805+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-01-10T16:36:45.559531+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时38分 ~ 15时27分]"
+          "appearance_count": 25,
+          "time_info": "[00时38分 ~ 16时36分]"
         },
         {
           "title": "马斯克：白领劳动力将最先消失",
