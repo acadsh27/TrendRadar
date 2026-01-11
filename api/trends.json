@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T19:25:05.465598+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-01-11T20:56:25.302279+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,20 @@
           "time_info": "[07时28分 ~ 10时30分]"
         },
         {
+          "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
+          "url": "https://wallstreetcn.com/articles/3763028",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[12时14分 ~ 20时56分]"
+        },
+        {
           "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
           "url": "https://flash.jin10.com/detail/20260111150811201800",
           "source": "金十数据",
@@ -70,19 +84,6 @@
           "time_info": "[15时29分 ~ 17时29分]"
         },
         {
-          "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
-          "url": "https://wallstreetcn.com/articles/3763028",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时14分 ~ 19时25分]"
-        },
-        {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
           "url": "https://www.cls.cn/detail/2253847",
           "source": "财联社热门",
@@ -94,8 +95,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时33分 ~ 19时25分]"
+          "appearance_count": 32,
+          "time_info": "[00时33分 ~ 20时56分]"
         },
         {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
