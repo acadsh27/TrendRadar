@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T13:34:06.899559+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-01-11T14:43:09.623020+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 13时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 14时43分]"
+        },
+        {
+          "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
+          "url": "https://wallstreetcn.com/articles/3763028",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 14时43分]"
         },
         {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
@@ -71,28 +84,17 @@
           "time_info": "[10时29分 ~ 13时34分]"
         },
         {
-          "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
-          "url": "https://wallstreetcn.com/articles/3763028",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 13时34分]"
-        },
-        {
           "title": "马斯克：X平台将于七天内开源其算法",
           "url": "https://wallstreetcn.com/livenews/3034612",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时43分]"
         },
         {
           "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
