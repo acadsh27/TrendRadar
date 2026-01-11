@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-01-11T14:43:09.623020+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-01-11T15:29:33.511014+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
+          "url": "https://flash.jin10.com/detail/20260111150811201800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
+          "url": "https://wallstreetcn.com/livenews/3034647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
         {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
           "url": "https://wallstreetcn.com/livenews/3034579",
@@ -50,11 +72,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 14时43分]"
+          "appearance_count": 23,
+          "time_info": "[00时33分 ~ 15时29分]"
         },
         {
           "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
@@ -66,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 14时43分]"
+          "appearance_count": 8,
+          "time_info": "[12时14分 ~ 15时29分]"
         },
         {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
@@ -95,6 +118,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 14时43分]"
+        },
+        {
+          "title": "如何看待马斯克称AGI今年就将实现",
+          "url": "https://www.toutiao.com/trending/7593493564425027603/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 15时29分]"
         },
         {
           "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
